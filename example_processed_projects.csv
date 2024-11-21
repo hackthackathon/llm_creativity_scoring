@@ -1,0 +1,410 @@
+Unnamed: 0,submission_gal_url,project_URL,github_links,participants,participants_num,build_with,repo_link,repo,submitted_to_link,submitted_to_name,submitted_to_hacks_num,likes,comments,description,Project_Summary,Innovation_Assessment,Curiosity_Assessment,Innovation_Scoring,Curiosity_Scoring
+11564,https://devfest-algiers-2021-hackathon.devpost.com/project-gallery,https://devpost.com/software/cheq-0vk7gq,https://github.com/Ne0Ss/CheQ,https://devpost.com/riad-boussoura,1,"blender, figma, mediapipe, python",https://github.com/Ne0Ss/CheQ,github.com,https://devfest-algiers-2021-hackathon.devpost.com/,DevFest Algiers 2021 Hackathon,1,0,0,"Inspiration:
+  - We were inspired by the LG's motivation of bringing smart solutions for safer and more confortable homes.
+
+What it does:
+  - It detects if the personne is fainted, our system will be able to classify if the situation is dangeorous or not its will send a message to any family member that its predefined on the application and the Autorities  
+
+How we built it:
+  - We use mediapipe librairie, developed by Google, it offers open source cross-platform, customizable ML solutions for live and streaming media.\nIt contains model called pose: it is a ML solution for high-fidelity body pose tracking, inferring 33 3D landmarks and background segmentation mask on the whole body.
+
+Challenges we ran into:
+  - How the system detects that the persone is lying down on the floor \nHow the system can detect the ok sign using the right calculations 
+
+Accomplishments that we're proud of:
+  - Our hard work.
+
+What we learned:
+  - We learned a lot in time management and finding solutions to problems we did not expect.
+
+What's next for CheQ:
+  - We are aiming to improve and updgrade the system so that it can also help detecting other kinds of house incidents. ","CheQ is an innovative system designed to detect if a person has fainted, assess the danger level, and alert family members and authorities promptly. Its goal is to enhance home safety by providing smart monitoring solutions. Built using Google's Mediapipe library for body pose tracking, CheQ overcame challenges in floor detection and the 'OK' sign recognition and learned valuable lessons in time management and problem-solving. Future plans include expanding its capabilities to detect other household incidents.","1. Utilized Google's open source mediapipe library, a customizable machine learning solution for live and streaming media.
+2. Employed ML solution for high-fidelity body pose tracking, inferring 33 3D landmarks and background segmentation mask on the whole body.
+3. Aiming to improve and upgrade the system to detect various kinds of house incidents.
+4. Project seeks to provide safer and more comfortable homes by classifying the danger level and alerting family members and authorities through predefined messages to the application.
+5. Introduced new approach to detecting if a person has fainted and is lying down on the floor.
+6. Innovative sign detection to identify 'ok' signals using calculated algorithms.","1. Questioning existing limitations: The team seeks to improve and upgrade the system to detect other kinds of house incidents beyond fainting.
+2. Discovering an unaddressed problem: The concept of using smart solutions for safer and more comfortable homes represents an unaddressed problem in the market.
+3. Outside-the-box thinking: Developing a system that detects fainting and other emergencies in real-time demonstrates innovative and unconventional methods.
+4. Leveraging unique ideas and processes: The utilization of Google's open-source Mediapipe library, specifically using the pose model for body pose tracking, represents unique technological integration.","Innovation - Fully met: The project introduces a smart solution to increase safety by detecting if a person has fainted and quickly notifying family members and authorities. It leverages Google's open-source ML library and high-fidelity tracking, exploring improvement in existing health alert systems.","Level 1 - Curiosity (Fully Met): The team questioned existing safety limitations in smart homes and sought to discover an unaddressed problem.
+
+Level 2 - Curiosity (Partially Met): While the team's solution explores out-of-the-box thinking, details about leveraging unique ideas and processes within the project are unclear.
+
+Level 3 - Curiosity (Did Not Meet): There is no mention of the team asking questions that specifically inspire growth or result in the artful application of scientific principles beyond the use of Mediapipe."
+26344,https://fellowship-orientation-22-sum.devpost.com/project-gallery,https://devpost.com/software/templatify,"https://github.com/BoscoCHW, https://github.com/iflinda, https://github.com/BoscoCHW/MLH-Hackathon-Jupyterlab-Templatify","https://devpost.com/BoscoCHW, https://devpost.com/iflinda",2,"javascript, python, react, typescript","https://www.figma.com/file/AOZGbaqUhAgOG9BeNy4HoC/MLH-Hackathon?node-id=0%3A1, https://www.figma.com/file/AOZGbaqUhAgOG9BeNy4HoC/MLH-Hackathon?node-id=0%3A1","www.figma.com, www.figma.com",https://fellowship-orientation-22-sum.devpost.com/,MLH Fellowship Orientation Hackathon - Summer A 2022,1,3,3,"Templatify & What it Does:
+  - Templatify is an extension for JupyterLab that allows users to create templates based on uploaded data from a csv file to more easily conduct data analysis. We decided to create a template extension that allows users to select a csv file and choose the types of data analysis that they'd like to perform. These analyses can range from histograms, scatter plots, to correlation matrices.
+
+Inspiration:
+  - When thinking about what we could work on for this hackathon, we really had to understand how the Jupyter Lab ecosystem worked. We found that this platform is widely used by data scientists while they are collecting, organizing, and analyzing their data.
+  - Upon learning more about why people loved using JupyterLab, we started to understood that their userbase really appreciated the multipurpose and usable tools that the application provided. Thus, we also wanted to provide additional tools to users to streamline their work and make it easier to analyze.
+
+How we built it:
+  - Front-end: TypeScript, React, JS
+  - Back-end: Python
+
+Challenges we ran into:
+  - As with learning any new platform and ecosystem, it took us awhile to really understand how to use JupyterLab in conjunction with the skills that we currently have. We spent a lot of time early on setting up our environment and following along with tutorials to make sure we understood both the tools and userbase we were making the extension for.
+
+Accomplishments that we're proud of:
+  - We're really proud that we were able to accomplish as much as we did given the time constraints on a new platform. We're also think that Templatify is a good idea and could eventually be a really usable extension to JupyterLab ecosystem.
+
+What we learned:
+  - We really learned how to work in our group of two to solve a lot of the issues that we were having. It was really beneficial having an extra set of eyes and a fresh mind when someone was stuck on an issue for a really long time.
+  - Another cool thing that we learned was how much preparation it took for data scientists to really excel at in their role.
+
+What's next for Templatify:
+  - Although we're not sure of how far we want to take the project, we firmly believe that Templatify could really be useful for users looking for a quick Jupyter Notebook template. We would potentially like to revisit this project at a later date when we're more familiar with JupyterLab.","Templatify is a JupyterLab extension enabling users to quickly create data analysis templates from csv files, streamlining histograms, scatter plots, and correlation matrix creation. It addresses the pain point of manually starting data analysis processes by simplifying the initial setup and execution through a user-friendly interface.
+
+Response (total words): 80","1. Creation of an extension that allows users to create templates based on CSV data in JupyterLab.
+2. Provides pre-defined analyses such as histograms, scatter plots, and correlation matrices.
+3. Contributes to the JupyterLab ecosystem, widely used by data scientists.
+4. Introduces an additional tool to JupyterLab to streamline the process of data analysis.","1. Assessing the JupyterLab ecosystem to understand its widely used platform by data scientists.
+2. Understanding why the platform's userbase appreciated multipurpose and usable tools, leading to the development of a tool extension (Templatify) that streamlines work for data analysis.
+3. Template creation based on uploaded data from a csv file to execute specific data analysis tasks, including histograms, scatter plots, and correlation matrices, demonstrating a unique and out-of-the-box idea.
+4. Overcoming challenges associated with learning a new platform and poorly understanding the tools and userbase, indicating problem-solving and persistence.
+5. Learning to work collaboratively in a group of two, improving problem-solving abilities and addressing issues efficiently – a product of curiosity in team dynamics.",Innovation was fully met. Templatify challenged the norm by creating a platform that simplifies the data analysis process for JupyterLab users. The solution was unique and tailored to address the specific needs of the platform's userbase.,"Curiosity: Fully met. The project demonstrates curiosity by seeking to enhance JupyterLab's capabilities based on the discovery of user needs. This led to the development of Templatify, which seeks to streamline and improve the experience for data scientists using JupyterLab for data analysis. The team's interest in learning the JupyterLab ecosystem and exploring user-centric tools reflects their curiosity-driven approach to problem-solving."
+78211,https://hackuc3.devpost.com/project-gallery,https://devpost.com/software/np-volunteer,https://github.com/AMoinian2004/Armin,"https://devpost.com/AMoinian2004, https://devpost.com/alekradak, https://devpost.com/ryomat, https://devpost.com/splashing23",4,"css, html",https://github.com/AMoinian2004/Armin,github.com,https://hackuc3.devpost.com/,HackUC III,1,1,1,"Inspiration: We wanted to help the community by connecting those who want to do good and chose who need help. We also wanted to fix a problem, and from personal experience, we understand that it can be difficult to get community service hours through volunteering.:
+
+What it does: Our website represents our idea of connecting volunteers and those who need help. An organization can register, putting in who they need. Then, if a person registers and meets the qualifications, the opportunity will be shown to them. They can read more about the opportunity, visit the organizations website, and apply.:
+
+How we built it: We used HTML to make an aesthetically pleasing website. We used attributes to link the top of the page to other parts of it, to make it easier to navigate. We inserted images and links to other websites to allow the page to be user friendly. The registration part was hardest. We had to ask for input from the user. Then we had to store and compare this user.:
+
+Challenges we ran into: Storing and comparing the information was the hardest part. We had to use PHP to connect the html file to a SQL database. From there, we had to compare the data, and use it to formulate results. However, we were unable to use this as html is unable to store data itself but we had to use a separate database to put our information into. This database required subscription and we couldn't figure out a way to successfully connect the PHP file to the database.:
+
+Accomplishments that we're proud of: We are proud of the fact that with little coding experience we were able to work together and make a website that would actually work in the real world. Coming in, we didn't think that we would achieve much, and we are now proud that we made a functioning website.:
+
+What we learned: As well as learning the basics of html, css, and php, we learned the value of hard work. Throughout the day we worked hard and were able to make an actual website with little previous experience.:
+
+What's next for NP Volunteer: Next, we plan to study PHP and SQL in order to make the website totally operational. Then, we plan to actually make NP Volunteer real. We plan to work with the town council, high school, and local businesses to make our idea a reality.","This project, NP Volunteer, aims to connect volunteers with organizations and community service opportunities, addressing the challenge of obtaining community service hours for individuals. Built with HTML, CSS, and PHP, it features a user-friendly website where organizations can post volunteer opportunities, and individuals can register and apply for them. The team overcame obstacles in storing and comparing user data by attempting to connect PHP to an external database, and learned valuable skills in web development and project collaboration. Future plans include enhancing website functionality with PHP and SQL knowledge and collaborating with local entities to make NP Volunteer a reality.","1. Introduction of a platform that connects volunteers and those in need of help.
+2. Integration of user registration for organizations to post their needs and for individuals to sign up if they meet the qualifications.
+3. Use of HTML to develop an aesthetically pleasing and user-friendly website.
+4. Employing attributes to make the website easy to navigate.
+5. Insertion of images and external links to improve the user experience.
+6. Designed registration process requiring input from the user.
+7. The use of PHP and SQL database to store and compare user information.
+8. Despite challenges, the creation of a functioning website with limited coding experience.
+9. Active plans to expand knowledge of PHP and SQL for website optimization.
+10. Collaboration with local communities to bring the project to fruition.","1. The project is outside of the box, aiming to connect volunteers with organizations needing help and community service hours.
+2. The idea came from the team's personal experience and desire to fix a problem facing their community.
+3. The team sought to design a website as a solution to address an unaddressed issue through unique processes.
+4. The team used various technologies such as HTML, CSS, and PHP, showcasing a curiosity and eagerness to learn.
+5. The project involved asking questions to problem-solve storing and comparing information, demonstrating curiosity and an artful application of scientific principles.","Innovation: Fully met. The project presents a fresh approach to connecting volunteers with organizations that need help, addressing a real issue in accessing community service hours. The use of an online platform creates a new possibility for volunteer matchmaking, improving access and efficiency.","Fully met: The team sought to discover an unaddressed problem and worked to fix it by creating a website to connect volunteers and those in need, showing curiosity.
+
+Fully met: The project is outside of the box as they developed a unique idea to connect volunteers and those in need, displaying curiosity.
+
+Partially met: While the team applied scientific principles in building the website, more information is needed to determine the artful application of these principles.
+
+Did not meet: The project description does not indicate whether the team questioned existing limitations, although curiosity may have been implied in identifying the unaddressed problem."
+101593,https://uipath2019.devpost.com/project-gallery,https://devpost.com/software/color-detector,https://github.com/NitinSafaya/ColorDetector,https://devpost.com/NitinSafaya,1,"custom-activity, euclid, uipath, visual-studio",https://github.com/NitinSafaya/ColorDetector,github.com,https://uipath2019.devpost.com/,Power Up Automation,1,1,0,"Inspiration:
+  - My manager asked me a question related to color based decision making. But at that time i was unsure if i could solve it. so I tried hard and came up with this custom activity.
+
+What it does:
+  - [1] Extract color from any pixel on the screen \n[2] Extract colors from image datatype \n[3] Extract colors from image file 
+  - [1] PrimaryColor - predefined enum consists of 12 primary colors \n[2] KnownColor - Default Color enum in System.Drawing 
+
+How I built it:
+
+Challenges I ran into:
+
+Accomplishments that I'm proud of:
+
+What I learned:
+
+What's next for Color Detector:
+
+""
+https://devpost.com/software/drug-finder,""Inspiration : I was looking for alternate drugs with different prices.:
+
+What it does : It takes an input from the user and mails the excel containing relevant data.:
+
+How I built it : Using UiPath Studio:","Project Description:
+The Color Detector is a software application designed to extract and identify colors from different sources such as pixel locations on a screen, image datatypes, and image files.
+
+Problem Statement:
+The project aims to streamline the process of distinguishing and categorizing colors in digital images, aiding decision-making regarding color-related tasks in graphic design and UI development.
+
+Inspiration:
+The project was conceived after I tried to solve a query on color-based decision making in one-go, leading to this innovative feature-rich solution.
+
+What it does:
+The color extractor can identify colors from non-image resources (like pixels on the screen) to native colored image files with enums for primary and predefined system colors.
+
+How I built it:
+The software was developed using advanced algorithms, programming languages, and creativity to tackle the different color extraction methods.
+
+Challenges I ran into:
+I faced challenges in perfecting the algorithms for color extraction, processing speed, and component integration.
+
+Accomplishments that I'm proud of:
+The successful implementation that accurately captures colors and its flexibility to handle various image sources.
+
+What I learned:
+I learned the intricacies of digital color extraction techniques and improving issue resolution skills for complex projects.
+
+What's next for the Color","- Extracting color from any pixel on the screen
+- Extracting colors from image datatype
+- Extracting colors from image file
+- Utilization of PrimaryColor and KnownColor enums for color definition
+- Custom activity creation for color detection
+- Use of UiPath Studio in building the application","- Asking questions related to color-based decision making, indicating curiosity in understanding the implications and applications of color in various contexts.
+- Undertake a problem-solving process to develop a custom activity for extracting colors, showcasing curiosity in technological challenges.
+- Creating a system that can extract color from a variety of sources such as screen pixels, image datatypes, and image files.
+- Introducing a predefined enumeration of primary colors as a classification system, reflecting an inquiry into color theory and its practical uses.
+- Utilizing a default color enumeration in System.Drawing, suggesting research into existing frameworks and a curiosity about how to improve upon them. 
+
+Accomplishments:
+
+- Development of a color detection activity, demonstrating an effective solution driven by curiosity.
+- Successfully extracting colors from different image sources, indicating expanded knowledge and problem-solving abilities.","Fully met: The project addresses an existing challenge in the pharmaceutical industry by offering an alternative solution for finding drugs with different prices.
+
+Partially met: The project demonstrates research by utilizing UiPath Studio, but there is no clear evidence of testing or analyzing existing solutions to improve upon them.
+
+Did not meet: The project description does not present an innovative approach, as it focuses on a practical application without challenging norms or introducing new concepts.","Curiosity: Partially met.
+Explanation: The individual attempted to explore and solve a new problem based on their manager's question. However, there is no indication of questioning existing limitations or searching for unaddressed issues. The project appears to be an application of known techniques rather than an artful application of scientific principles or novel ideas."
+120264,https://makeschool.devpost.com/project-gallery,https://devpost.com/software/interactions,,https://devpost.com/miracleyear2,1,,Nan,Nan,https://makeschool.devpost.com/,Make School's Student App Competition 2017,1,13,11,"Inspiration:
+  - In this life, People Communicates, Interacts to do businesses,Employers interacting with Employees,\nCustomers interacting with Sellers, Lecturers with Students to share ideas,\nfamily discussions,Doctors interacting with Patients and Caregivers etc. To make interactions more easier than ever we have\ncreated a platform called Interactions
+  - Note: This application is still in its development phase and has not been completed yet. They are many more features to be Integrated...
+  - Okay, Its time to Interact. Interaction is an instant real-time messaging system that provides near or remote \n one to one and one to many group or Team chat conferencing, SMS and Email messaging System. it has diverse of applications.
+  - Lecturers & Students Interaction:\nInteractions has made communications  more easier than ever.\nStudents and Lecturers can now interacts with one another on educational purposes. Shares Digital Files,Photos, Quizzess, Assignments, Lectures and educates one another etc via one to one Chat and One to Many Chat,SMS and Email Conferencing System, all in real-time.
+  - Doctors & Patients Interactions\n           Doctors and Patients Communication is now awesome. Doctors, Patients and their respective CareGiver can now have one to one as well\nas one to many(Conferencing) Chat interaction to educate one another, solve medical issues and treatment. They can Share Medical files in the form \nof X-RAY Scanned Data, Lab Results, Digital photos all in real-time....
+  - Employer & Employee Interaction...\n              Communication between Employer, Employee and their respective customers has been easier than ever. They can have one to one chat \ncommunication, Group Conferencing Chat communication and can communicate remotely with Digital files sharing options. All in real-time...\n
+
+Technology Used:
+  - Building a Real-Time Messaging  &  Communication System requires Full Duplex Technology that can allow sending and receiving of rich text messages simultaneously. This will help to prevent Server Timely data call for updates, reduces Sever-load and latency while optimizing Server Performance.\nThis app was built using PHP, NodeJs AND Socket.IO 
+
+Features Already Integrated:
+
+What's next for Interactions:
+  - 1.)Introduction of Video and Audio Calls\n2.)Digital Whiteboard Sessions(For Live Conferencing)\n3.)Message Propagation Via SMS if the recipient is Offline\n4.)Porting the app to Android & IOS and Creation of an extension to Google Chrome and Mozilla Browser...\n5.) Many More.","Interactions is a real-time messaging and communication platform aimed at enhancing interactions among individuals in various sectors like education, healthcare, and business. The project addresses the challenge of facilitating efficient and instant communication, particularly for groups and teams, without the limitations of physical proximity.","1. Real-time messaging system that provides one to one and one to many group or team chat conferencing, SMS, and Email messaging System - this could potentially increase value, by simplifying interactions and facilitating communication across diverse contexts (e.g. educational, medical, business).
+2. Innovative integration of various communication methods (e.g. chat, SMS, email conferencing) into one platform - aims to improve accessibility and convenience.
+3. Use of Full Duplex Technology for simultaneous sending and receiving of rich text messages - this contributes to server performance, reducing latency and increasing the smoothness of the interaction.
+4. Plan to introduce Video and Audio Calls - New feature that enhances the interactive experience and might address lack of visual aspect in communication process.
+5. Future plans for Digital Whiteboard Sessions for live conferencing - This indicates further reinvention to increase the value of the platform.
+6. Message propagation via SMS when the recipient is offline - caters to the existing issue of services being inaccessible when parties are not online simultaneously.
+7. Porting the app to Android and iOS - enhances accessibility and can increase user base by adapting to popular mobile device platforms.
+8. Creation of an extension to the Google Chrome and Mozilla browser - increases the platform's versatile use and the user-friendliness of","1. Creation of a platform to make interactions easier: The project aims to improve various human interactions, such as those between employers and employees, doctors and patients, and educators and students.
+
+2. Design for real-time Message Exchange: The application enables communication in real-time, allowing for one-to-one or one-to-many chat conferencing, SMS, and email messaging.
+
+3. Comprehensive Application Scope: Interactions has been built to accommodate various communication needs and contexts, ranging from educational support, medical assistance, and business collaboration.
+
+4. Constant Innovation and Feature Integration: Despite being in its development phase, the app has already incorporated several features, and the developers are considering new functionalities such as video and audio calls, digital whiteboard sessions, message propagation via SMS, and porting the app to other platforms like Android, iOS, and Mozilla Browser. These plans demonstrate a continuous pursuit of technological growth and adaptation.","Innovation: Fully met. The project proposes a real-time messaging and communication system that addresses multiple industries' interaction needs. It improves existing solutions by providing one-on-one and group chat conferencing, SMS, and email options in various contexts like education, healthcare, and employment. The team has identified the problem of interactive communication across these fields and offers a platform that increases value through immediate information sharing, collaboration, and connection.","Curiosity:
+Fully met - The project introduces a unique real-time messaging system that revolutionizes various forms of interactions, such as student-teacher, doctor-patient, and employer-employee communication."
+175914,https://wolfhacks21.devpost.com/project-gallery,https://devpost.com/software/howler-heart,https://github.com/IonicArgon/howler-sustain-app,"https://devpost.com/IonicArgon, https://devpost.com/Wiserlightning, https://devpost.com/agrimreaper, https://devpost.com/itsrajan",4,"arduino, c++, figma, node.js, typescript","https://www.figma.com/proto/JTQjF38vPDt4dh2QsdEpF9/Howler-Heart?node-id=13%3A3&scaling=scale-down&page-id=0%3A1, https://www.figma.com/proto/JTQjF38vPDt4dh2QsdEpF9/Howler-Heart?node-id=13%3A3&scaling=scale-down&page-id=0%3A1, https://www.figma.com/proto/JTQjF38vPDt4dh2QsdEpF9/Howler-Heart?node-id=13%3A3&scaling=scale-down&page-id=0%3A1","www.figma.com, www.figma.com, www.figma.com",https://wolfhacks21.devpost.com/,WolfHacks21,1,3,1,"Inspiration:
+  - A good environment and sustainability are absolutely necessary for human survival, however, without any organization, a fully sustainable planet wouldn't be able to survive. Our group, Team 25, were motivated to create a product that would manage all of the systems on Planet Howler.
+
+What it does:
+  - Our product, Howler Heart, condenses all of the information from the various systems into a single, primary dashboard. We've managed to create a single analytics page that shows live updates of the weather, generated power, and agriculture. By using wireless technologies, we are able to seamlessly transfer data from various locations into Howler Heart, providing insightful data about the sustainability on the planet.
+
+How we built it:
+  - By using various sensors attached to an Arduino, we are able to collect a lot of data on the sustainability on planet Howler. C++ is able to parse the data coming from the Arduino and store it as data to transfer wirelessly. Then, Figma was used to create the final Howler Heart dashboard and provide live updates about the various systems on the planet. A typescript API was also created for surveillance of greenhouses. 
+
+Challenges we ran into:
+  - A challenge we came across was creating a software using C++ using SFML. Since SFML wasn't meant to prototype analytics C++ software, we attempted to use QT, another C++ API. However, our lack of knowledge with QT made it difficult to create a viable solution. This is why we decided to create a frontend analytics board with Figma.
+  - Another challenge we faced was working collaboratively through an online interface. While the entirety of our group got along very well, completing online group work was very difficult, especially when creating 3D models and creating the physical Arduino prototype.  However, we managed to overcome this challenge and ended up creating fairly good work.
+  - Our final challenge was serial communication between the Arduino and the computer. To fix this, we implemented an external C++ library to make the Arduino function. 
+
+Accomplishments that we're proud of:
+
+What we learned:
+
+What's next for Howler Heart:
+  - Convert our prototype to a finalized C++ software that can be implemented in real life.  A GUI would be used to make the project flow more smoothly. Creating a functional backend and a data-base for live analytics would also be a next step. ","Howler Heart is a comprehensive monitoring and data analytics platform for sustainable planet management, integrating real-time updates from weather, power generation, and agriculture. The project addresses the challenge of coordinating and synthesizing disparate environmental sustainability data into a cohesive and actionable dashboard to facilitate informed decision-making.
+
+
+Team 25 collaborated to build Howler Heart using Arduino for data collection, C++ for data parsing and wireless transfer, Figma for the dashboard, and Typescript for the greenhouse surveillance API, overcoming obstacles such as navigating complex C++ libraries and coordinating online collaboration.","1. Examining existing systems on Planet Howler and identifying the need for better management through a single dashboard.
+2. Creation of the Howler Heart product, which integrates data from various systems (weather, generated power, and agriculture) into one primary analytics page for better sustainability on the planet.
+3. Use of wireless technologies to transfer data from different locations, providing a more comprehensive sustainability perspective.
+4. Incorporation of sensors attached to an Arduino for data collection regarding sustainability on the planet.
+5. Adoption of multiple programming languages like C++ and TypeScript, illustrating an innovative approach to solving the sustainability challenges.
+6. Overcoming challenges such as software development with C++ and SFML, collaboration difficulties in an online environment, and serial communication issues between the Arduino and computer, driving innovation in their project execution.
+7. Preliminary design and development of the Howler Heart dashboard with Figma, showcasing a forward-thinking approach to teaming up with different technologies for a united environmental cause.","- Team 25's motivation to create Howler Heart stems from curiosity about designing a system that could manage all the different systems on Planet Howler, a challenge beyond existing solutions.
+- They explored novel ways of data collection and transmission by employing various sensors with an Arduino and wireless technologies, an approach fueled by curiosity about sustainable solutions.
+- The team faced a challenge in using C++ with SFML for prototype analytics and explored the use of QT, demonstrating a curiosity-driven desire to push boundaries in software development.
+- Team 25 employed Figma to create the Howler Heart dashboard, showing curiosity in creating user-friendly and aesthetic interfaces beyond the norm.
+- The effort to establish software and hardware integration, including troubleshooting issues with serial communication between Arduino and computer, indicates a curious and investigative approach to problem-solving.","Fully met: Team 25 focused on a new problem—managing multiple systems with sustainability in mind.
+Partially met: While the project gathers and displays data, there's no clear evidence of testing or typical innovation research in the approach.
+Fully met: Through the use of a novel wireless data transfer system and a unique analytics dashboard in Figma, the group exhibited sustainability improvements, a core aspect of innovation.","Curiosity FULLY MET: Team 25 displayed strong curiosity by questioning existing limitations in sustainable planet management and aimed to address an unaddressed problem. The unique concept of Howler Heart and exploration of various technologies indicate a proactive approach to questioning and discovery. The team tackled challenges head-on, demonstrating a curiosity to learn and adapt, leading to a project that leverages unique ideas and processes."
+215509,https://pickhacks2021.devpost.com/project-gallery,https://devpost.com/software/owlie,https://github.com/sahithvibudhi/owlie,"https://devpost.com/skvg45, https://devpost.com/sppgn, https://devpost.com/vijaydachepally897",3,"bootstrap, css, docker, express.js, heroku, html, javascript, jquery, mongodb, node.js","https://github.com/sahithvibudhi/owlie, https://github.com/sahithvibudhi/owlie","github.com, github.com",https://pickhacks2021.devpost.com/,PickHacks 2021,1,0,0,"Inspiration:
+  - Suggestions we get on platforms like Netflix, Youtube, Spotify, and Medium are great. but we tend to be inquisitive about what our friends are watching. So, we built a chrome extension that suggests media based on what your friends are watching
+
+What it does:
+  - \nAdd Friends and make privacy settings\n\nOwlie tells you where your friends are on the internet whenever you open a New Tab\n\nOwlie let's you know if your friend is on the same site. so, you can browse the same media content\n\n
+  - Watch Demo: https://www.loom.com/share/bc21bf8e5d5e49a1b033f16cf8923b2e
+
+How we built it:
+  - We built the chrome extension in HTML, CSS, and Vanilla Javascript and the server using NodeJS, Mongo, Docker, and Heroku
+
+Challenges we ran into:
+
+Accomplishments that we're proud of:
+  - We had to write a background worker for the browser that keeps tracks of which website the user is on and sync the data to the server based on the user's privacy settings - which was hard to design and implement.  We are proud of implementing this feature without comprising on user's privacy
+
+What we learned:
+  - We have learned to build chrome extensions, CI/CD to automatically deploy backend to Heroku. But most importantly, how to rapidly spin up a prototype
+
+What's next for Owlie:","Owlie is a Chrome extension that suggests media content based on what friends are watching, providing an inquisitive glimpse into their streaming habits. It addresses the problem of lacking insight into friends' media preferences and the desire to explore content they enjoy.
+
+What it does: Owlie allows users to add friends, set privacy preferences, and notifies them when friends are browsing the same media site using a New Tab page for quick insights, facilitating shared media experiences.
+
+Challenges we ran into:
+
+Accomplishments that we're proud of:
+We developed a background worker for real-time user activity tracking with privacy compliance and deployed our backend using CI/CD on Heroku.
+
+What we learned: The development of Owlie taught us how to build Chrome extensions, manage continuous integration and continuous deployment (CI/CD) processes, and rapidly generate prototypes.
+
+What's next for Owlie: We plan to enhance the accuracy of suggestions, improve performance, and integrate with more streaming platforms, making Owlie a go-to tool for shared media experiences.","- Improved personalization: The project delivers media suggestions based on what a user's friends are watching, enhancing value through tailored recommendations.
+- Community-based interaction: Facilitates browsing the same media content as friends, increasing the opportunity for shared experiences.
+- Maintenance of privacy: Designed background worker that tracks websites grouped under user's privacy settings, reinforcing user empowerment and trust.
+- New approach to friend-based recommendations: Innovatively uses friends' watching behavior to suggest media, addressing the problem of finding new content.
+- Building technology: The chrome extension and server were developed using various technologies like HTML, CSS, Vanilla Javascript, NodeJS, Mongo, Docker, and Heroku.","1. Questioning existing media suggestions: The team was inquisitive about the constraints of their friends' media suggestions on platforms like Netflix, Youtube, Spotify, and Medium.
+
+2. Discovering an unaddressed problem: Identifying that users were curious about what their friends are watching, which wasn't adequately captured by existing recommendation systems.
+
+3. Implementing an outside-the-box solution: Developing a chrome extension to suggest media based on friends' watching habits, rather than relying on broad platform algorithms.
+
+4. Unique processes: Creating a background worker for the browser that tracks the user's website activity based on privacy settings, while syncing data to the server.
+
+5. Leveraging unique ideas: Owlie doesn't just recommend media, but also informs users when friends are on the same site, encouraging shared viewing experiences.","The project fully met the 'Innovation' criterion. It improved upon existing recommendation solutions by introducing a unique social media-based approach. This allows users to explore media content their friends are watching, fostering discoverability through social connections. The successful implementation of the background worker for privacy-compliant tracking and collaboration tool deployment signifies a creative and refined solution to a modern, relatable problem.","**Curiosity** Fully Met: The project team showed curiosity by questioning the limitations of existing media suggestion platforms and aimed to discover an unaddressed problem related to media consumption among friends.
+
+Partially Met: Owlie's team implemented the project with unique ideas and a desire for growth and learning; however, more context about their specific approach in questioning existing limitations would help fully assess the curiosity level.
+
+Fully Met: The project team went the extra mile by learning to build chrome extensions, using CI/CD, and rapidly spinning up prototypes, showcasing curiosity in expanding their skillset."
+220547,https://intuitionv6.devpost.com/project-gallery,https://devpost.com/software/facial-expression-recognition,,"https://devpost.com/Booxworm, https://devpost.com/hanliong-looi",2,"keras, numpy, python, scikit-learn, tensorflow",Nan,Nan,https://intuitionv6.devpost.com/,iNTUition v6.0,1,0,0,"Inspiration:
+  - People with low social EQ struggle to understand the human body language and unable to read what they're feeling from the facial expressions. We hope that this project is able to fill this gap and help these people have more meaningful conversations
+
+What it does:
+  - Our project is a model that reads an image of a face and accurately output the emotions of the person in the image
+
+How we built it:
+  - We made use of image processing in keras and tensorflow, and through the use of a convolutional neural network (VGG-16), we are able to train the model to recognize faces in the images and their emotions
+
+Challenges we ran into:
+  - With only 24 hours, we can only train the model with a limited amount of data and it was difficult finding a decent amount of data set of Asian faces showing the expressions we wanted
+
+Accomplishments that we're proud of:
+  - We are able to build the program and train the model in the nick of time and the program was able to produce promising results
+
+What we learned:
+  - We have learned that when training the model, the number of layers increases the training time exponentially and it is important to balance the effectiveness of the model and the time taken to train the model when we are working on a project with a time constraint
+
+What's next for Facial Expression Recognition:
+  - We can link this project with Skype and improve it even further to make it real time instead of a screen capture so that the project is more suitable for real life applications","Project Description: Our project aims to build an AI model that reads an image of a face and accurately outputs the person's emotions, thus helping individuals with low social EQ to better understand facial expressions for more meaningful conversations.
+
+Problem Statement: The project addresses the challenge faced by people with low social EQ in deciphering human body language and facial expressions, enabling them to have more effective communication and connections.
+
+Our accomplishments so far include building this model within a 24-hour time frame and training it successfully using a convolutional neural network (VGG-16), despite challenges in finding sufficiently diverse datasets, particularly for Asian faces. Moving forward, we aim to integrate our facial expression recognition model into real-time communication platforms like Skype, improving its applicability in everyday situations.","1. Improvement to social EQ: The project aims to challenge the norm by addressing the problem of people with low social EQ struggling to understand human body language and facial expressions. The solution is intended to enable more meaningful conversations.
+
+2. Novel approach to emotion recognition: Instead of existing methods focused on voice intonation or spoken language, the project utilizes image processing to read emotions through facial expressions.
+
+3. Use of advanced techniques and libraries: The project employs image processing with keras and tensorflow and a convolutional neural network (VGG-16) to train a model for recognizing faces and emotions from images.
+
+4. Acknowledgement of problem-solving framework: The team identifies a problem (low social EQ) and examines existing solutions, proposing an innovative approach to improve social interaction.
+
+5. Future potential for real-time applications: The project plans to expand its potential by linking the facial expression recognition model with Skype, providing real-time applications and enhancing accessibility and usability.","1. Asking questions that inspire growth: The project aims to fill the gap for people with low social EQ who struggle to understand human body language and facial expressions, indicating growth-focused objectives.
+
+2. Artistic application of scientific principles: The project utilizes image processing in Keras and Tensorflow, along with a convolutional neural network (VGG-16), to develop a model that analyzes and predicts emotions from facial images.
+
+3. Questioning existing limitations: The team worked with a limited dataset and time constraint, which might suggest they worked towards overcoming such constraints to build a useful model.
+
+4. Discovering an unaddressed problem: The project addresses the issue of understanding emotions through facial images, especially for individuals with low social EQ.
+
+5. Out-of-the-box solution: By connecting the facial expression recognition project with Skype for real-time applications, the team demonstrates an innovative approach to further improving the product's usability.","'Innovation' Scoring:
+
+1. Fully met: The project aims to assist individuals with low social EQ by interpreting facial expressions, addressing a real-world problem.
+2. Fully met: Uses image processing, TensorFlow, and Keras for facial emotion recognition, introducing tech improvements within existing solutions.
+3. Partially met: The project faces challenges in accessing diverse data sets, suggesting room for further innovation in data sourcing and diversity.
+4. Fully met: Plans to integrate the technology into Skype for real-time application, showing a significant leap in practical innovation.",The project 'Fully met' the curiosity level by inspiring growth through its approach to helping individuals with low social EQ. The team 'Fully met' curiosity by questioning limitations in understanding facial expressions and 'Fully met' by leveraging unique ideas and processes with image processing and CNN models. There 'Partially met' curiosity as improvements are needed for real-life applications and data availability.
+222355,https://hackrice-9.devpost.com/project-gallery,https://devpost.com/software/occupotty-sx63pm,https://github.com/texashoneybadgers/HackRice9,"https://devpost.com/Chao07, https://devpost.com/SpenceSimm, https://devpost.com/murphe14325, https://devpost.com/ryancorridor",4,"api, arduino, bootstrap, css, firmata, html, javascript, jquery, mongodb, python",https://github.com/texashoneybadgers/HackRice9,github.com,https://hackrice-9.devpost.com/,HackRice 9,1,2,2,"Inspiration:
+  - OccuPotty was inspired by one of our team members recent experiences. At his internship in the summer, there were two bathrooms on his floor, and they were on opposite corners. Numerous times he walked to the bathroom only to find the bathroom was occupied and his emergency had to wait. We decided to take this _""""unique"""" _ challenge and find a solution.
+
+What it does:
+  - The user experience is consumed through a webpage. There it lists the locks that are under the organization and shows whether they are locked or unlocked. In our case, we modeled our organization after a bathroom. If someone enters or exits a stall, the webpage will update to reflect the new status of the lock.
+  - There is also a live physical status on the lock represented by LEDs. This could be used by maintenance to troubleshooting lock issues.
+
+How we built it:
+  - For hardware, we have an Arduino monitoring and controlling that status of the locks. To interact with it, we have chosen to utilize pyFirmata, a Python library of Firmata.
+  - Any information is transferred via an API, called LockRice, that we have crafted ourself. This API interacts with a MongoDB database and reflects the current status that the Arduino sends it.
+  - For the front end, we are using HTML, CSS, JavaScript, and JQuery to represent the current status of the lock and get the current status from the MongoDB database.
+
+Challenges we ran into:
+  - The biggest challenge we faced on the software side was figuring out how to request data from our database and connect it to our toggle feature on the website. It took lots of researching and trial and error to overcome this challenge.
+  - On the hardware side, our engineers faced a challenge of the vacant light acting on its own accord. After double and triple-checking the python code and the circuitry, they overcame the challenge.
+
+Accomplishments that we're proud of:
+  - We are proud of the progress we made throughout this project. Coming into this event, none of us had a lot of experience or knowledge into what they were assigned to do. This was on purpose, as it was a way to learn different technologies.
+
+What we learned:
+  - """"I learned how to create an API from scratch and how to connect that various parts of the project."""" - Ryan Hall
+  - """"I learned more about databases and APIs while also further learning and refining my knowledge of front end languages."""" - Emily Murphy
+  - """"I learned to integrate hardware with software by utilizing databases and leveraging APIs."""" - CJ Sewell
+  - """"I learned more about the intricacies of Arduino circuits, specifically how to create more complex circuitry."""" - Spence Simmons
+
+What's next for OccuPotty:
+  - OccuPotty could be expanded in several ways, such as adding automatic locking, or a system of reservations. This application can also be shown to be useful in other areas.","OccuPotty is an innovative web-based application designed to monitor the real-time occupancy status of bathroom facilities using Arduino hardware and MongoDB. The project aims to prevent the inconvenience caused by occupied restrooms by providing a system where users can check availability before heading to a facility, thereby reducing unnecessary waiting time.","1. Inspiration:
+   - Experiencing bathroom lock challenges and finding an innovative solution.
+
+2. New Approach to Problem:
+   - Developed a system to monitor and display the status of bathroom locks through a webpage, LED indicators, and an Arduino.
+
+3. Improved User Experience:
+   - Created a user interface where people can check lock availability through HTML, CSS, JavaScript, and jQuery.
+
+4. APIs and Databases Integration:
+   - Built a custom-designed LockRice API to interact with a MongoDB database and manage status updates.
+
+5. Hardware-Software Integration:
+   - Incorporated Arduino microcontrollers to monitor and transmit lock status to the web frontend via given APIs.
+
+6. Overcoming Challenges:
+   - Debugged software to connect the database with the website and resolved unexpected hardware behaviors with vacant light circuitry.
+
+7. Personal Skill Development:
+   - Team members learned to create APIs from scratch, connect various project parts, database management, front end languages, hardware-software integration, and complex Arduino circuitry implementation.","1. Team member's experience inspired the project, leading to a unique challenge.
+2. The project questioned existing limitations regarding wait times by innovating a solution.
+3. The concept of OccuPotty sought to address an unaddressed problem related to bathroom availability.
+4. The team was creative in using Arduino and pyFirmata to monitor and control lock statuses.
+5. They developed a custom LockRice API to interact with MongoDB and reflect the current lock status.
+6. Utilizing front-end technologies (HTML, CSS, JavaScript, and JQuery) to represent the lock status on a webpage shows out-of-the-box thinking.","The project fully meets the level of 'Innovation' as it explores a unique challenge of monitoring bathroom stall usage, improving both accessibility and comfort in a shared space. The team identified a common problem and reimagined a solution using technology. The OccuPotty solution fully utilizes existing technologies (Arduino, pyFirmata, MongoDB, HTML, CSS, JavaScript, and JQuery) in a novel way, contributing to increased value by potentially reducing wait times for occupants.","Curiosity: Fully met.
+
+The OccuPotty project demonstrates curiosity by addressing an everyday issue in a new and innovative way, questioning existing limitations, and exploring unaddressed problems. The team sought to create an unconventional solution for bathroom occupancy management, and their processes reflect an artful application of scientific principles to turn inspiration from personal experience into a functional project."
+277348,https://behavioralhealth.devpost.com/project-gallery,https://devpost.com/software/truclinic,,"https://devpost.com/LaurelChristensen, https://devpost.com/TruClinic, https://devpost.com/vitalio",3,"amazon-ec2, amazon-rds-relational-database-service, amazon-web-services, android, angular.js, bootstrap, google-app-engine, html5, javascript, nginx, node.js, php, postgresql, rabbitmq, react, react-native, redis, socket.io, stylus, symfony, typescript",Nan,Nan,"https://behavioralhealth.devpost.com/, https://gehealthcloud.devpost.com/","Behavioral Health Patient Empowerment Challenge, GE Health Cloud Innovation Challenge",2,23,23,"Inspiration:
+  - Justin Kahn was struck in the head with a baseball bat when he was 14 years old. In his teens and twenties, he would suffer from anxiety and panic attacks. When Justin was 27, he had a panic attack that scared him into seeking out the help of a neurologist. After working with her for almost a year, she discovered that he did not have PTSD. Instead, what he had been experiencing for 13 years, were seizures that were caused by the traumatic brain injury. She put him on an anti-seizure medication that alleviated what he had been experiencing.
+  - In 2009, he read an article that was in the speech that Robert Gates, the former Secretary of Defense, gave to the graduating class of West Point. He said that the Department of Defense was going to begin investing billions of dollars each year to address the PTSD epidemic plaguing all branches of the military. 
+  - Justin grew up around the VA. His stepfather was an administrator for the VA. He thought that the way to address this problem would be to establish a relationship at the beginning of the service member’s career with their home state VA and have it continue into the rest of their lives. He knew from his own experience that the most effective mechanism for him to deal with his seizures, which can be similar to the symptoms of PTSD, was having someone to talk to. 
+  - A lot has been done to address mental health in the military, but there are some service members that do not proactively address the issues they are dealing with. The reason is there can be a stigma attached with having mental health issues, as well as real world implications because they can be pulled away from their unit, possibly lose rank or pay, get passed over for advancement, or even be discharged. The result is, as troops transition to veteran status, some come back suffering from traumatic experiences that are having a dramatic effect on their transition back to civilian life. 
+  - Justin approached the Salt Lake VA with the idea of having active duty troops being able to meet with VA practitioners from their home state while deployed, and have it be done through secure video conferencing. The VA agreed to test the concept of online care by teaching relaxation exercises to a small group veterans to see if they would have the same retention rate or better as doing in-person. 
+  - When Justin received pre-seed capital in 2012 to start TruClinic, he approached his friend and software engineer, Trevor Wilkin. Justin Kahn/CEO and Trevor Wilkin/CTO have known each other since 2007, and have worked on multiple creative projects together. Brian Russon was originally introduced to TruClinic while he was with Microsoft and looking for Surface use cases in healthcare, of which we were utilizing with the University of Utah’s NICU unit. Brian joined the company initially in an advisory role for over three years before joining the company as Chief Revenue Officer. Lori Douglas joined the company as a result of her excellent work in the physician staffing industry with one of our investor/board members when we identified the need for someone to manage and grow our existing clients to ensure client success with our early adopters. Alex Zoller & Vitaly Leokumovich, co-Founders of Overl.ai joined the company in 2017 with the TruClinic acquisition of Overl.ai. Alex has over 10 years in the EHR industry and is now TruClinic's Head of Product. Vitaly is the co-Founder of IDEOM and Ego7 and is now TruClinic's VP of Engineering. 
+
+What it does:
+  - TruClinic connects the clinical applications and services healthcare organizations need to fit their unique workflows and patient population by streamlining communication between multiple clinical systems and services to eliminate repetitive tasks and data entry. Fast access to information when providers need it leaves them with the time they need to focus on patient care by staying connected with patients through telehealth technologies.
+  - TruClinic gives the caregivers the tools they need to provide the right types of healthcare services and information at the right time to best serve the patient's individual needs. TruClinic is used as an extensibility of the systems the providers and staff use on a daily basis. TruClinic solves the problem of patient management, patient engagement and patient adherence by giving the providers the ability to customize the telehealth experience based on their different subsets of patients.
+
+How we built it:
+  - Trevor Wilkin and Jon Fuller/Director of Customer Support were the driving force of the first two iterations of the TruClinic platform. The first version was built on a LAMP stack using Javascript. Version 1.0 used a Flash based video codec. TruClinic was an early adopter of WebRTC for the video codec which was rolled out in Version 2, along with moving away from Javascript and into Node.js and Angular. Version 3 (code name: Olympus) is built on Node.js, Angular, React and Typescript. 
+
+Challenges we ran into:
+  - We believed that TruClinic would be the solution that providers would flock to. The thought at first was to get customers, regardless of size of practice or length of sales cycle. We were not charging enough either. The positive side of the challenge was that we got a birds eye view into all different types of healthcare providers. The negative side was that we did not have a cohesive sales strategy and it was very hard to predict revenue. Small practices were easy to sell to, but they had high attrition rates because they did not have the infrastructure or budget to implement a successful and scalable telemedicine strategy. Enterprise customers have the infrastructure and budgets, but the sales cycles can be anywhere between 6 months to 2 years. This experience helped to shape the customer acquisition strategy and that helped us focus on hone in on our sales process.
+  - Fundraising was also a major challenge. As a small company where everyone is wearing multiple hats, the time and resources needed to fundraise were taking away from other tasks that needed to be completed. The executive team decided to raise the least amount of funds possible and to bootstrap for as long as possible. The whole team learned to operate using lean methodology and kept the growth in line with revenue. The company was not able to grow as fast as it had projected, but it gave us time to work out all the bugs before it was ready to scale.
+
+Accomplishments that we're proud of:
+  - TruClinic was a winner of the Village Capital/VentureWell/SOURCE/Hitachi Foundation accelerator in 2014. The company is also an alumni of the Startup Bootcamp Miami accelerator in 2016. TruClinic currently has 11 employees and 7 independent contractors. The technology has been featured in trade organizations and publications such as The Advisory Board, AGC Partners, IDC Global Insights, the Journal of mHealth & Healthcare IT News. The company has two issued patents which outline the process for browser based online healthcare consultations (US Patent 8,718,245 and US Patent 9,374,394) with a third in review. TruClinic currently has 25 customers spanning 4 continents, in 7 countries and in all 50 states.
+
+What we learned:
+  - The use cases for telehealth are as broad as the providers and the patients they care for. We have learned that our customers want a flexible technology with a modular feature set that they can scale throughout their entire organization. We have also learned that healthcare moves at different paces, depending on the priorities, budget, internal teams, etc. We learned to work with our customers to develop the strategies and deployment plans that will lead to a successful rollout. We treat our customers like partners and learn as much from them as they do from us.
+
+What's next for TruClinic:
+  - We will be doing a fundraise at the end of Q1/2017 for sales and marketing scale. On the technology front, we will be integrating biometric, biofeedback and wearable feeds intro TruClinic sessions, and will continue with additional EHR integrations. The future is bright and we're all wearing shades.","TruClinic, founded by Justin Kahn and Trevor Wilkin, bridges clinical applications and services for healthcare organizations, offering timely telehealth solutions to enhance patient care. Originating from Kahn's personal experience with PTSD misdiagnosis, TruClinic aims to connect providers and patients effectively, addressing mental health stigma within military veterans. The platform merges various healthcare services, allowing customization based on patient subsets. Despite initial challenges, TruClinic's growth and recognition, evidenced by awards and patents, signify a promising future in therapy delivery and patient engagement.","1. Telehealth initiative to help service members address PTSD concerns through secure video conferencing, in collaboration with Salt Lake VA.
+
+2. Customizable telehealth experience for providers to address various patient subsets, enabling right healthcare services and information at the right time.
+
+3. Utilization of innovative technology such as WebRTC for the video codec and the development of an extensibility platform sitting as an addition to already used systems by providers.
+
+4. Employment of a lean methodology amid fundraising challenges, coupled with a growth trajectory aligned with revenue.
+
+5. Implementation of a flexible telehealth platform with a modular feature set, focusing on accommodating different healthcare providers and patient needs.","- Curiosity in seeking a solution for PTSD epidemic in the military.
+- The novel integration of secure video conferencing for early diagnosis and management.
+- Justin Kahn's proactive questioning of existing mental health care services.
+- Unique approach to addressing stigma and real-world implications for military personnel dealing with mental health issues.
+- Tech-driven solution with the incorporation of WebRTC for video codec in telehealth.","Fully met: The project demonstrates innovation by exploring ways to improve mental health support for military members through telehealth consultations. It challenges the existing solution by addressing the stigma and practical implications associated with mental health in the military. The TruClinic platform offers a novel approach by providing secure video conferencing for active duty troops, revolutionizing how mental health services are accessed and delivered.","Met Level: Partially met. The project does display curiosity in the form of questioning existing limitations and proactively seeking to address those limitations through innovation. Justin Kahn's personal experience with PTSD and the realization of the need for better mental health solutions demonstrate curiosity. However, there is less emphasis on exploring outside-the-box solutions or leveraging unique ideas and processes, suggesting room for improvement."
